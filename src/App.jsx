@@ -109,7 +109,7 @@ function App() {
 
   const profileData = {
     image: '/img/ftoperfil.jpg',
-    name: 'Luis Antuña Valdez',
+    name: 'Luis Antuna Valdez',
     bio: 'Desarrollador de Software',
     verified: true
   };
